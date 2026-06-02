@@ -1,0 +1,11 @@
+{
+  "url": "https://app.findable.dev/toolkit/projects/f369c1ad-680b-4c2b-86ed-216d71a0f9cf",
+  "title": "Collections - Projects test building | Findable",
+  "trigger": {
+    "role": "combobox",
+    "ariaLabel": "Project status",
+    "textContent": "Planning",
+    "ariaExpanded": "false"
+  },
+  "accessibleObservation": "Closed project status combobox accessible name is only Project status even though visible text/current value is Planning. Screen-reader users do not get the current status until they open the dropdown."
+}
