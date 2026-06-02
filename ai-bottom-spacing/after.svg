@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="988" height="360" viewBox="0 0 988 360">
+  <rect width="988" height="360" fill="white" stroke="#e5e5e5"/>
+  <line x1="0" y1="106" x2="988" y2="106" stroke="#e0e0e0" stroke-width="2"/>
+  <line x1="0" y1="213" x2="988" y2="213" stroke="#e0e0e0" stroke-width="2"/>
+  <line x1="0" y1="244" x2="988" y2="244" stroke="#f0f0f0" stroke-width="2"/>
+  <rect x="0" y="30" width="160" height="48" rx="14" fill="#fff5e0"/><text x="38" y="52" font-family="Inter, Arial" font-size="28" fill="#a45c00" dominant-baseline="middle">Editor</text>
+  <rect x="0" y="137" width="160" height="48" rx="14" fill="#ffeeee"/><text x="38" y="161" font-family="Inter, Arial" font-size="28" fill="#dc0012" dominant-baseline="middle">Manager</text>
+  <rect x="306" y="13" width="356" height="47" rx="16" fill="#f0f0f0"/><text x="365" y="37" font-family="Inter, Arial" font-size="28" fill="#232323" dominant-baseline="middle">Findaplex Amphitheatre</text>
+  <circle cx="804" cy="53" r="13" fill="none" stroke="black" stroke-width="4"/><text x="865" y="38" font-family="Inter, Arial" font-size="28">•••</text>
+  <circle cx="804" cy="160" r="13" fill="none" stroke="black" stroke-width="4"/><text x="865" y="145" font-family="Inter, Arial" font-size="28">•••</text>
+  <text x="390" y="282" font-family="Inter, Arial" font-size="16" fill="#787878">Reserved scroll space</text>
+  <circle cx="880" cy="165" r="58" fill="#f5f8fc" stroke="#dee8f6" stroke-width="4"/><circle cx="880" cy="165" r="44" fill="#062b45"/><text x="880" y="174" text-anchor="middle" font-family="Inter, Arial" font-size="48" fill="#70b2ff" dominant-baseline="middle">✦</text>
+  <rect x="830" y="133" width="95" height="65" rx="8" fill="none" stroke="#3caa5a" stroke-width="4"/>
+  <text x="650" y="228" font-family="Inter, Arial" font-size="16" fill="#007832">Last row action stays above the launcher</text>
+</svg>
