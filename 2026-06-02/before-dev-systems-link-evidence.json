@@ -1,0 +1,18 @@
+{
+  "url": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/systems",
+  "title": "Systems - A Testbygg | Findable",
+  "systemsLink": [
+    {
+      "text": "Systems",
+      "href": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/systems",
+      "ariaDisabled": null,
+      "visibleEnabledLink": true
+    }
+  ],
+  "accessDenied": true,
+  "permissions": {
+    "building.read": false,
+    "building.minimal_access": true,
+    "building.edit": false
+  }
+}
