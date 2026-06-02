@@ -1,0 +1,11 @@
+{
+  "url": "https://findable-app-git-fix-project-status-a11y-preview.findable.dev/toolkit/projects/f369c1ad-680b-4c2b-86ed-216d71a0f9cf?qa=after-42c8b9d93",
+  "title": "Collections - Projects test building | Findable",
+  "trigger": {
+    "role": "combobox",
+    "ariaLabel": "Project status: Planning",
+    "textContent": "Planning",
+    "ariaExpanded": "false"
+  },
+  "accessNameIncludesCurrentStatus": true
+}
