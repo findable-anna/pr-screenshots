@@ -1,0 +1,13 @@
+{
+  "url": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/files",
+  "account": "dennis+project_admin@findable.ai",
+  "customer": "Testkunde",
+  "building": "A Testbygg (beac3d86-076d-4f7a-9362-77def6d56561)",
+  "viewport": "1024x768",
+  "observed": {
+    "createFolder": {"disabled": true, "ariaDescribedBy": null, "title": null},
+    "uploadFiles": {"disabled": true, "ariaDescribedBy": null, "title": null},
+    "visibleExplanation": false
+  },
+  "impact": "Read-only users see disabled document creation/upload actions without any visible or accessible explanation of the missing edit permission."
+}
