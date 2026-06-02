@@ -1,0 +1,13 @@
+{
+  "url": "https://findable-app-git-fix-files-disabled-actions-reason-preview.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/files?qa=after-ec4ef495e",
+  "pr": "https://github.com/findable-no/monorepo-apps/pull/6417",
+  "branch": "fix/files-disabled-actions-reason-preview",
+  "account": "dennis+project_admin@findable.ai",
+  "customer": "Testkunde",
+  "building": "A Testbygg (beac3d86-076d-4f7a-9362-77def6d56561)",
+  "observed": {
+    "createFolder": {"disabled": true, "ariaDescribedBy": "documents-upload-actions-disabled-reason", "describedText": "You need upload access to create folders or upload files."},
+    "uploadFiles": {"disabled": true, "ariaDescribedBy": "documents-upload-actions-disabled-reason", "describedText": "You need upload access to create folders or upload files."},
+    "visibleExplanation": true
+  }
+}
