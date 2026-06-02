@@ -1,0 +1,18 @@
+{
+  "url": "https://app.findable.dev/support/case",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "submitBeforeClick": {
+    "disabled": false,
+    "ariaDisabled": null,
+    "text": "Submit report"
+  },
+  "requiredValues": {
+    "categoryText": "Select a category",
+    "subjectValue": "",
+    "descriptionValue": ""
+  },
+  "emptySubmitShowsToast": false
+}

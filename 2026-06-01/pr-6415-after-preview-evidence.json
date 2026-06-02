@@ -1,0 +1,16 @@
+{
+  "url": "https://findable-app-git-fix-support-case-submit-validation-preview.findable.dev/support/case?qa=after-a2956cb3e",
+  "title": "Report an Issue | Findable",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "submitEmpty": {
+    "disabled": true,
+    "ariaDisabled": null,
+    "text": "Submit report"
+  },
+  "subjectRequired": true,
+  "descriptionRequired": true,
+  "categoryAriaRequired": "true"
+}
