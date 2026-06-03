@@ -1,0 +1,35 @@
+{
+  "url": "https://findable-app-git-fix-project-access-dedup-preview.findable.dev/toolkit/projects/f369c1ad-680b-4c2b-86ed-216d71a0f9cf?tab=access&qa=after-61f92928b",
+  "title": "- E2E Project User Roles | Findable",
+  "duplicateLabel": "E2E Project User Roles: Contributor",
+  "duplicateLabelOccurrences": 4,
+  "bodyHasProjectExternal": true,
+  "externalUserExcerpt": [
+    "Active",
+    "Testcustomer: Viewer",
+    "D",
+    "dennis+project_external@findable.no",
+    "Pending",
+    "Subcontractor: dennis+project_external@findable.no",
+    "E2E Project User Roles: Contributor",
+    "PU",
+    "Project Uploader",
+    "dennis+project_uploader@findable.ai",
+    "Pending",
+    "Subcontractor: Project Uploader",
+    "E2E Project User Roles: Contributor"
+  ],
+  "uploaderExcerpt": [
+    "Subcontractor: dennis+project_external@findable.no",
+    "E2E Project User Roles: Contributor",
+    "PU",
+    "Project Uploader",
+    "dennis+project_uploader@findable.ai",
+    "Pending",
+    "Subcontractor: Project Uploader",
+    "E2E Project User Roles: Contributor",
+    "Hover over Assets to quickly jump to a recent building.",
+    "Got it"
+  ],
+  "bodyText": "Main sidebar\n\nAsk Findable\n\nSearch\n\nExtract\n\nInbox\n\nAssets\n\nTools\n\nRequest to invite\n\nSupport\n\nD\nSecondary sidebar\nChecklists\nCollections\nProjects\nToggle Sidebar\nToolkit\nProjects\nE2E Project User Roles\nBack to projects\nE2E Project User Roles\n\nProjects test building\n\nStatus:\nPlanning\nLast updated:\n08.01.2026 08:23\nProject collections\nRequirements\nSubcontractors\nAccess\nSettings\nAccess Control\n\nManage user access to this project\n\nAccess level guide\nUsers\nGroups\nList\nGrid\nExport users\nInvite user\nD\n\ndennis+dingdang@findable.no\n\nPending\nE2E Project User Roles: Viewer\nD\n\ndennis+dingdong@findable.no\n\nPending\nE2E Project User Roles: Manager\nD\n\ndennis+testing_2342@findable.no\n\nPending\nE2E Project User Roles: Contributor\nF\n\nfredrik@findable.ai\n\nActive\nAdministrators\nTestcustomer: Manager\nJB\n\nJohannes Berggren\n\nberggren@findable.no\n\nActive\nAdministrators\nSubcontractor: Johannes Berggren\nTestcustomer: Manager\nE2E Project User Roles: Contributor\nTT\n\nTestuser Testesson\n\ntestuser+workbench-non-admin@findable.no\n\nActive\nTestcustomer: Viewer\nD\n\ndennis+project_external@findable.no\n\nPending\nSubcontractor: dennis+project_external@findable.no\nE2E Project User Roles: Contributor\nPU\n\nProject Uploader\n\ndennis+project_uploader@findable.ai\n\nPending\nSubcontractor: Project Uploader\nE2E Project User Roles: Contributor\n\nHover over Assets to quickly jump to a recent building.\n\nGot it"
+}
