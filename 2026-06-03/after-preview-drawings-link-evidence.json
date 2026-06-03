@@ -1,0 +1,14 @@
+{
+  "url": "https://findable-app-git-fix-drawings-sidebar-permission-preview.findable.dev/buildings/a896b41b-89b4-4350-9c67-3dd9e8830fd4/drawings?qa=after-8dfd80a80",
+  "title": "Drawings - Drawings | Findable",
+  "accessDenied": true,
+  "drawingsLinkCount": 0,
+  "drawingsSidebarItem": {
+    "testId": "building-drawings-nav-item",
+    "text": "Drawings",
+    "tag": "SPAN",
+    "href": null,
+    "ariaDisabled": "true"
+  },
+  "result": "The current direct URL remains protected by access denied, but the sidebar Drawings item is no longer an enabled link for this no-read permission shape."
+}
