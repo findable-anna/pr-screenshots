@@ -1,0 +1,12 @@
+{
+  "url": "https://app.findable.dev/buildings/a896b41b-89b4-4350-9c67-3dd9e8830fd4/drawings",
+  "title": "Drawings - Drawings | Findable",
+  "building": "Drawings (a896b41b-89b4-4350-9c67-3dd9e8830fd4)",
+  "accessDenied": true,
+  "sidebarDrawingLink": {
+    "tag": "A",
+    "href": "https://app.findable.dev/buildings/a896b41b-89b4-4350-9c67-3dd9e8830fd4/drawings",
+    "ariaDisabled": null
+  },
+  "visibleTextExcerpt": "Library sidebar renders Drawings as the selected/enabled link while the main content shows: Looks like you do not have access to this page in Findable. Ask the owner of this page to provide you with access."
+}
