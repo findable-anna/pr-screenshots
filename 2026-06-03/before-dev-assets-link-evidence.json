@@ -1,0 +1,11 @@
+{
+  "url": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/report?qa=before-evidence",
+  "testkundeLinks": ["https://app.findable.dev/buildings"],
+  "clickableAssets": [
+    { "tag": "BUTTON", "href": null, "disabled": true, "meaning": "main sidebar Assets disabled" },
+    { "tag": "BUTTON", "href": null, "disabled": null, "meaning": "breadcrumb Assets clickable button" }
+  ],
+  "breadcrumbs": ["Assets", "", "A Testbygg", "", "Red flag report"],
+  "clickingTestkundeNavigatedTo": "https://app.findable.dev/buildings",
+  "accessDeniedAfterClick": true
+}

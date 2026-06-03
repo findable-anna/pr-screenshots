@@ -1,0 +1,9 @@
+{
+  "url": "https://findable-app-git-fix-buildings-link-minimal-access-preview.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/report?qa=after-0300b",
+  "testkundeLinks": [],
+  "assetsClickable": [
+    { "tag": "BUTTON", "href": null, "disabled": true, "meaning": "main sidebar Assets remains disabled" }
+  ],
+  "breadcrumbs": ["Assets", "", "A Testbygg", "", "Red flag report"],
+  "visibleTextIncludesAccessDenied": false
+}
