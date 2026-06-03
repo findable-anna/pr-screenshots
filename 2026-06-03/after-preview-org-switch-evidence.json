@@ -1,0 +1,15 @@
+{
+  "url": "https://findable-app-git-fix-org-switch-accessible-home-preview.findable.dev/toolkit",
+  "title": "Toolkit | Findable",
+  "accessDenied": false,
+  "toolkitText": true,
+  "disabledNav": [
+    {"testid":"chat-nav-item","text":"Ask Findable","disabled":true},
+    {"testid":"search-nav-item","text":"Search","disabled":true},
+    {"testid":"workflows-nav-item","text":"Extract","disabled":true},
+    {"testid":"inbox-nav-item","text":"Inbox","disabled":true},
+    {"testid":"assets-nav-item","text":"Assets","disabled":true},
+    {"testid":"toolkit-nav-item","text":"Tools","disabled":false}
+  ],
+  "reproduction": "On the preview branch, starting from Testkunde A Testbygg Checklists and switching organisation to Testcustomer redirects through / and lands on /toolkit instead of /buildings; the page is not access denied while Assets remains disabled and Tools remains available."
+}
