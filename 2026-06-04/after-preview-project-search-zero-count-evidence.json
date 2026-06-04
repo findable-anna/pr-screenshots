@@ -1,0 +1,18 @@
+{
+  "url": "https://findable-app-git-fix-project-search-result-count-preview.findable.dev/toolkit/projects?qa=after-project-search-count",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "searchValue": "zzzzzz",
+  "badge": [
+    {
+      "text": "0 Projects",
+      "ariaLabel": "Project count: 0"
+    }
+  ],
+  "hasNoMatchingProjects": true,
+  "matchingProjectCards": 0,
+  "matchingTableRows": 0,
+  "visibleTextExcerpt": "Your Projects\n0 Projects\n\nSelect a project to navigate its details\n\nCreate project\nGrid\nList\n\nYou need edit access to create a project.\n\nNo matching projects\n\nTry a different project or building name, or clear the search.\n\nClear search\n\nHover over Assets to quickly jump to a recent building.\n\nGot it"
+}
