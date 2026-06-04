@@ -1,0 +1,65 @@
+{
+  "capturedAt": "2026-06-04T01:23:17.166Z",
+  "url": "https://findable-app-git-fix-project-tabs-mobile-preview.findable.dev/toolkit/projects/f369c1ad-680b-4c2b-86ed-216d71a0f9cf?tab=access&qa=after-project-tabs-2",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "document": {
+    "scrollWidth": 390,
+    "clientWidth": 390
+  },
+  "projectTabs": [
+    {
+      "text": "Project collections",
+      "selected": false,
+      "x": -259,
+      "right": -133.25,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    },
+    {
+      "text": "Requirements",
+      "selected": false,
+      "x": -133.25,
+      "right": -7.5,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    },
+    {
+      "text": "Subcontractors",
+      "selected": false,
+      "x": -7.5,
+      "right": 118.25,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    },
+    {
+      "text": "Access",
+      "selected": true,
+      "x": 118.25,
+      "right": 244,
+      "width": 125.75,
+      "fullyVisibleInViewport": true
+    },
+    {
+      "text": "Settings",
+      "selected": false,
+      "x": 244,
+      "right": 369.75,
+      "width": 125.75,
+      "fullyVisibleInViewport": true
+    }
+  ],
+  "activeTab": {
+    "text": "Access",
+    "selected": true,
+    "x": 118.25,
+    "right": 244,
+    "width": 125.75,
+    "fullyVisibleInViewport": true
+  },
+  "accessContentVisible": true,
+  "deploymentBuilding": false,
+  "bugFixed": true
+}
