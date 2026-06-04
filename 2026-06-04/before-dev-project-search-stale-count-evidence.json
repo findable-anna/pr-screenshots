@@ -1,0 +1,18 @@
+{
+  "url": "https://app.findable.dev/toolkit/projects",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "searchValue": "zzzzzz",
+  "badge": [
+    {
+      "text": "29 Projects",
+      "ariaLabel": null
+    }
+  ],
+  "hasNoMatchingProjects": true,
+  "matchingProjectCards": 0,
+  "matchingTableRows": 0,
+  "visibleTextExcerpt": "Your Projects\n29 Projects\n\nSelect a project to navigate its details\n\nCreate project\nGrid\nList\n\nYou need edit access to create a project.\n\nNo matching projects\n\nTry a different project or building name, or clear the search.\n\nClear search"
+}
