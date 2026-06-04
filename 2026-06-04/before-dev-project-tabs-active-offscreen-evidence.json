@@ -1,0 +1,64 @@
+{
+  "capturedAt": "2026-06-04T01:07:31.800Z",
+  "url": "https://app.findable.dev/toolkit/projects/f369c1ad-680b-4c2b-86ed-216d71a0f9cf?tab=access",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "document": {
+    "scrollWidth": 390,
+    "clientWidth": 390
+  },
+  "projectTabs": [
+    {
+      "text": "Project collections",
+      "selected": false,
+      "x": 19,
+      "right": 144.75,
+      "width": 125.75,
+      "fullyVisibleInViewport": true
+    },
+    {
+      "text": "Requirements",
+      "selected": false,
+      "x": 144.75,
+      "right": 270.5,
+      "width": 125.75,
+      "fullyVisibleInViewport": true
+    },
+    {
+      "text": "Subcontractors",
+      "selected": false,
+      "x": 270.5,
+      "right": 396.25,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    },
+    {
+      "text": "Access",
+      "selected": true,
+      "x": 396.25,
+      "right": 522,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    },
+    {
+      "text": "Settings",
+      "selected": false,
+      "x": 522,
+      "right": 647.75,
+      "width": 125.75,
+      "fullyVisibleInViewport": false
+    }
+  ],
+  "activeTab": {
+    "text": "Access",
+    "selected": true,
+    "x": 396.25,
+    "right": 522,
+    "width": 125.75,
+    "fullyVisibleInViewport": false
+  },
+  "accessContentVisible": true,
+  "bug": true
+}
