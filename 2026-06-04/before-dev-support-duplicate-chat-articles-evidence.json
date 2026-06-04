@@ -1,0 +1,67 @@
+{
+  "url": "https://app.findable.dev/support",
+  "showing": "Showing 1-6 of 9 articles",
+  "duplicates": [
+    [
+      "How to Use the Chat Function",
+      2
+    ]
+  ],
+  "articleLinks": [
+    {
+      "title": "How do I upload documents?",
+      "href": "/support/articles/how-to-upload-and-organise-documents",
+      "text": "1How do I upload documents?Open a building, navigate to the folder where you want to upload, and either drag and drop files onto the page or click the upload button. You can upload multip…"
+    },
+    {
+      "title": "How do I download or export documents?",
+      "href": "/support/articles/how-to-download-and-export-documents",
+      "text": "2How do I download or export documents?Select one or more documents and click the download button. If you select multiple files or an entire folder, Findable will package them into a ZIP archive for…"
+    },
+    {
+      "title": "How do I use AI search?",
+      "href": "/support/articles/tips-for-effective-searching",
+      "text": "3How do I use AI search?Findable uses AI-powered search to find documents by their content, not just file names. Type your query in the search bar and Findable will return the most rel…"
+    },
+    {
+      "title": "How do I work with checklists and deficiency reports?",
+      "href": "/support/articles/how-to-use-checklists",
+      "text": "4How do I work with checklists and deficiency reports?Open a building and navigate to the checklists section. You can create new checklists from templates, assign items to team members, and track progress. Deficien…"
+    },
+    {
+      "title": "AI Agent Browsing Capabilities",
+      "href": "/support/articles/ai-agent-browsing",
+      "text": "AI Agent Browsing CapabilitiesAsk & SearchUsing AI agents to browse building folder trees within Findable, including new interactive UI features in Claude."
+    },
+    {
+      "title": "AI Agents Settings",
+      "href": "/support/articles/ai-agents-settings",
+      "text": "AI Agents SettingsAsk & SearchManage connections and settings for AI agents in Findable, including browsing and red flag queries."
+    },
+    {
+      "title": "AI Launcher Redesign",
+      "href": "/support/articles/ai-launcher-redesign",
+      "text": "AI Launcher RedesignAsk & SearchDiscover the new features and layout of the Findable AI launcher, including hover-expand and contextual suggestions."
+    },
+    {
+      "title": "How do I Search for a Document?",
+      "href": "/support/articles/how-do-i-search-for-a-document",
+      "text": "How do I Search for a Document?Ask & SearchEnhanced search functionality with processing status visibility for documents."
+    },
+    {
+      "title": "How to Use the Chat Function",
+      "href": "/support/articles/how-do-i-use-the-chat-function",
+      "text": "How to Use the Chat FunctionAsk & SearchAsk Your Building, Chat. AI Search with configurable modes."
+    },
+    {
+      "title": "How to Use the Chat Function",
+      "href": "/support/articles/how-to-use-the-chat-function",
+      "text": "How to Use the Chat FunctionAsk & SearchAsk Your Building, Chat. AI Search with configurable modes."
+    }
+  ],
+  "scroller": {
+    "scrollTop": 758,
+    "scrollHeight": 1766,
+    "clientHeight": 1008
+  }
+}
