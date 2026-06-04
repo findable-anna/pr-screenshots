@@ -1,0 +1,15 @@
+{
+  "url": "https://findable-app-git-fix-redflag-report-skip-forbidden-preview.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/report?qa=after-redflag-skip",
+  "title": "Report - A Testbygg | Findable",
+  "visibleState": true,
+  "generateDisabled": true,
+  "redFlagRequests": [],
+  "permissionChecks": [
+    "https://api.findable.dev/users/permissions/check/building/any",
+    "https://api.findable.dev/users/permissions/check/building/beac3d86-076d-4f7a-9362-77def6d56561/edit",
+    "https://api.findable.dev/users/permissions/check/building/beac3d86-076d-4f7a-9362-77def6d56561/administrate",
+    "https://api.findable.dev/users/permissions/check/building/beac3d86-076d-4f7a-9362-77def6d56561/read",
+    "https://api.findable.dev/users/permissions/check/building/beac3d86-076d-4f7a-9362-77def6d56561/upload"
+  ],
+  "impact": "After the fix, the same disabled Red flag report UI renders without firing deficiency-report data or document-entry requests."
+}
