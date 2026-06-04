@@ -1,0 +1,18 @@
+{
+  "url": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/report?qa=before-redflag-skip",
+  "account": "dennis+project_admin@findable.ai",
+  "customer": "Testkunde",
+  "building": "A Testbygg",
+  "viewport": "768x1024",
+  "visibleState": "Red flag report first-run state with disabled Generate report button and edit-access helper",
+  "unexpectedForbiddenRequests": [
+    "https://api.findable.dev/customers/36c62d90-480d-4232-b4af-dc00d43347e0/buildings/beac3d86-076d-4f7a-9362-77def6d56561/deficiency-reports",
+    "https://api.findable.dev/customers/36c62d90-480d-4232-b4af-dc00d43347e0/buildings/beac3d86-076d-4f7a-9362-77def6d56561/deficiency-reports/documents?limit=1000"
+  ],
+  "consoleSymptoms": [
+    "API Error: /customers/.../deficiency-reports {status: 403}",
+    "API Error: /customers/.../deficiency-reports/documents {status: 403}",
+    "Unexpected RTK Query Error (Safety Net): fetchDeficiencyReportDocumentsByBuildingId"
+  ],
+  "impact": "A user without building read access still triggers forbidden red-flag report reads and a noisy RTK safety-net warning while the UI already knows report generation is unavailable."
+}
