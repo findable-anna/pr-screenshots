@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-06-05T00:32:17.475Z",
+  "previewUrl": "https://findable-app-git-fix-files-filename-search-fallback-preview.findable.dev/buildings/0148f509-216b-476d-b349-2ece347d7054/files?qa=after-files-search-fallback",
+  "customer": "Testkunde",
+  "customerId": "36c62d90-480d-4232-b4af-dc00d43347e0",
+  "building": "1 - Demobygg - Smiene Barnehage",
+  "buildingId": "0148f509-216b-476d-b349-2ece347d7054",
+  "searchQuery": "chat",
+  "observed": {
+    "inputValue": "chat",
+    "visibleRows": [
+      "chat29.05.2026——Folder"
+    ],
+    "rowCount": 1,
+    "hasChatFolder": true,
+    "hasNoDataAvailable": false
+  },
+  "expected": "Filename search keeps the visible chat folder available after the global search endpoint is denied for this permission shape."
+}
