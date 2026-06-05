@@ -1,0 +1,19 @@
+{
+  "url": "https://app.findable.dev/buildings/0148f509-216b-476d-b349-2ece347d7054/files",
+  "customer": "Testkunde",
+  "building": "1 - Demobygg - Smiene Barnehage",
+  "buildingId": "0148f509-216b-476d-b349-2ece347d7054",
+  "customerId": "36c62d90-480d-4232-b4af-dc00d43347e0",
+  "searchInput": "chat",
+  "hasChatRowBefore": true,
+  "unfilteredRowsInclude": "chat (Folder, uploaded 29.05.2026)",
+  "filteredRows": [
+    "AI filename ... Locations",
+    "No data available"
+  ],
+  "noDataAfterSearch": true,
+  "searchUrl": "https://api.findable.dev/customers/36c62d90-480d-4232-b4af-dc00d43347e0/v2/search?buildingId=0148f509-216b-476d-b349-2ece347d7054&query=chat&numberOfHits=21&offset=0&useAiFilenames=false",
+  "fetchStatus": 403,
+  "fetchBody": "{\"error\":\"Access denied to building: 0148f509-216b-476d-b349-2ece347d7054\"}",
+  "bodyHasSearchFailedToast": true
+}
