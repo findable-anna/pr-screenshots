@@ -1,0 +1,202 @@
+{
+  "url": "https://app.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/files?tab=uploads",
+  "title": "Findable",
+  "selectedTab": "Recent uploads",
+  "bodyIncludesNoRecentUploads": true,
+  "bodyIncludes513": true,
+  "showingText": "Showing 1-100 of 513 documents",
+  "tabPanelText": "",
+  "rowLikeElements": [],
+  "buttonsAndLinks": [
+    {
+      "text": "",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Ask Findable",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Search",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Extract",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Inbox",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Assets",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Tools",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Tools",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Request to invite",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Support",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "D",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Open main sidebar",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Open secondary sidebar",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "A Testbygg",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Overview",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Documents",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Collections",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Checklists",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Red flag report",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Toggle Sidebar",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "A Testbygg",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Files",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Building categories",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Recent uploads",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Unprocessed",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Archive",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Private Folders",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Documents",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Zip files",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "Previous",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "1",
+      "ariaDisabled": null,
+      "disabled": false
+    },
+    {
+      "text": "2",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "3",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "4",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "5",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "6",
+      "ariaDisabled": "true",
+      "disabled": true
+    },
+    {
+      "text": "Next",
+      "ariaDisabled": "true",
+      "disabled": true
+    }
+  ]
+}
