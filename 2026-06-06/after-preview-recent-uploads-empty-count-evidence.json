@@ -1,0 +1,13 @@
+{
+  "timestampUtc": "2026-06-06T23:47:10Z",
+  "url": "https://findable-app-git-fix-recent-uploads-accessible-count-preview.findable.dev/buildings/beac3d86-076d-4f7a-9362-77def6d56561/files?tab=uploads&qa=after-recent-uploads-accessible-count-a79f19",
+  "observed": {
+    "selectedTab": "Recent uploads",
+    "countText": "0 documents",
+    "emptyState": "No recent uploads",
+    "paginationTextPresent": false,
+    "oldMismatchedTextPresent": false
+  },
+  "branch": "fix/recent-uploads-accessible-count-preview",
+  "commit": "a79f19bded38e832f39f4c59a2fe1af92fd509f4"
+}
