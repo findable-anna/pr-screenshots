@@ -1,0 +1,34 @@
+{
+  "url": "https://findable-app-git-fix-support-csp-images-preview.findable.dev/support/articles/how-to-set-a-new-password?qa=after-support-csp-images",
+  "title": "How to Set a New Password | Findable",
+  "articleTitle": "How to Set a New Password",
+  "imgCount": 3,
+  "imagesLoaded": true,
+  "images": [
+    {
+      "src": "https://cdn.sanity.io/images/5xxmcx6g/production/237ed3f4e6011493d7bfb788891f987fca3c576f-1651x1203.png",
+      "naturalWidth": 1651,
+      "naturalHeight": 1203,
+      "clientWidth": 718,
+      "clientHeight": 523,
+      "complete": true
+    },
+    {
+      "src": "https://cdn.sanity.io/images/5xxmcx6g/production/415c98b2f6ae4975067aa864f4bdf2b45ea41907-1651x1206.png",
+      "naturalWidth": 1651,
+      "naturalHeight": 1206,
+      "clientWidth": 718,
+      "clientHeight": 524,
+      "complete": true
+    },
+    {
+      "src": "https://cdn.sanity.io/images/5xxmcx6g/production/98a1f1f4715027a4057ebb4a95bad450bac69ae6-510x440.png",
+      "naturalWidth": 510,
+      "naturalHeight": 440,
+      "clientWidth": 718,
+      "clientHeight": 619,
+      "complete": true
+    }
+  ],
+  "checkedAt": "2026-06-06T03:21:00Z"
+}
