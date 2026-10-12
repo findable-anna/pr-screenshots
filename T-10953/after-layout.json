@@ -1,0 +1,592 @@
+[
+  {
+    "viewport": 320,
+    "name": "New information type",
+    "width": 236,
+    "usable": 210,
+    "panel": 236,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 236,
+        "top": 3692.75,
+        "left": 37
+      },
+      {
+        "width": 87.984375,
+        "top": 3729.75,
+        "left": 37
+      },
+      {
+        "width": 236,
+        "top": 3773.75,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 320,
+    "name": "New location",
+    "width": 236,
+    "usable": 210,
+    "panel": 236,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 236,
+        "top": 4185,
+        "left": 37
+      },
+      {
+        "width": 83.875,
+        "top": 4222,
+        "left": 37
+      },
+      {
+        "width": 116.375,
+        "top": 4266,
+        "left": 37
+      },
+      {
+        "width": 236,
+        "top": 4310,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 375,
+    "name": "New information type",
+    "width": 291,
+    "usable": 265,
+    "panel": 291,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 291,
+        "top": 3593.5,
+        "left": 37
+      },
+      {
+        "width": 87.984375,
+        "top": 3630.5,
+        "left": 37
+      },
+      {
+        "width": 291,
+        "top": 3674.5,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 375,
+    "name": "New location",
+    "width": 291,
+    "usable": 265,
+    "panel": 291,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 291,
+        "top": 4061.75,
+        "left": 37
+      },
+      {
+        "width": 83.875,
+        "top": 4098.75,
+        "left": 37
+      },
+      {
+        "width": 116.375,
+        "top": 4142.75,
+        "left": 37
+      },
+      {
+        "width": 291,
+        "top": 4186.75,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 390,
+    "name": "New information type",
+    "width": 306,
+    "usable": 280,
+    "panel": 306,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 306,
+        "top": 3569.5,
+        "left": 37
+      },
+      {
+        "width": 87.984375,
+        "top": 3606.5,
+        "left": 37
+      },
+      {
+        "width": 306,
+        "top": 3650.5,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 390,
+    "name": "New location",
+    "width": 306,
+    "usable": 280,
+    "panel": 306,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 306,
+        "top": 4037.75,
+        "left": 37
+      },
+      {
+        "width": 83.875,
+        "top": 4074.75,
+        "left": 37
+      },
+      {
+        "width": 116.375,
+        "top": 4118.75,
+        "left": 37
+      },
+      {
+        "width": 306,
+        "top": 4162.75,
+        "left": 37
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 640,
+    "name": "New information type",
+    "width": 226.140625,
+    "usable": 200,
+    "panel": 508,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 226.140625,
+        "top": 3430,
+        "left": 61
+      },
+      {
+        "width": 192,
+        "top": 3430,
+        "left": 295.140625
+      },
+      {
+        "width": 73.859375,
+        "top": 3432,
+        "left": 495.140625
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 640,
+    "name": "New location",
+    "width": 204,
+    "usable": 178,
+    "panel": 508,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 204,
+        "top": 3776.125,
+        "left": 61
+      },
+      {
+        "width": 128,
+        "top": 3776.125,
+        "left": 273
+      },
+      {
+        "width": 160,
+        "top": 3776.125,
+        "left": 409
+      },
+      {
+        "width": 73.859375,
+        "top": 3820.125,
+        "left": 61
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 767,
+    "name": "New information type",
+    "width": 353.140625,
+    "usable": 327,
+    "panel": 635,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 353.140625,
+        "top": 3410.5,
+        "left": 61
+      },
+      {
+        "width": 192,
+        "top": 3410.5,
+        "left": 422.140625
+      },
+      {
+        "width": 73.859375,
+        "top": 3412.5,
+        "left": 622.140625
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 767,
+    "name": "New location",
+    "width": 249.140625,
+    "usable": 223,
+    "panel": 635,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 249.140625,
+        "top": 3756.625,
+        "left": 61
+      },
+      {
+        "width": 128,
+        "top": 3756.625,
+        "left": 318.140625
+      },
+      {
+        "width": 160,
+        "top": 3756.625,
+        "left": 454.140625
+      },
+      {
+        "width": 73.859375,
+        "top": 3758.625,
+        "left": 622.140625
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 768,
+    "name": "New information type",
+    "width": 308,
+    "usable": 282,
+    "panel": 308,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 308,
+        "top": 3586.375,
+        "left": 381
+      },
+      {
+        "width": 192,
+        "top": 3630.375,
+        "left": 381
+      },
+      {
+        "width": 73.859375,
+        "top": 3632.375,
+        "left": 581
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 768,
+    "name": "New location",
+    "width": 308,
+    "usable": 282,
+    "panel": 308,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 308,
+        "top": 3997.625,
+        "left": 381
+      },
+      {
+        "width": 128,
+        "top": 4041.625,
+        "left": 381
+      },
+      {
+        "width": 160,
+        "top": 4041.625,
+        "left": 517
+      },
+      {
+        "width": 73.859375,
+        "top": 4085.625,
+        "left": 381
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 834,
+    "name": "New information type",
+    "width": 374,
+    "usable": 348,
+    "panel": 374,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 374,
+        "top": 3509.75,
+        "left": 381
+      },
+      {
+        "width": 192,
+        "top": 3553.75,
+        "left": 381
+      },
+      {
+        "width": 73.859375,
+        "top": 3555.75,
+        "left": 581
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 834,
+    "name": "New location",
+    "width": 238,
+    "usable": 212,
+    "panel": 374,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 238,
+        "top": 3899.875,
+        "left": 381
+      },
+      {
+        "width": 128,
+        "top": 3899.875,
+        "left": 627
+      },
+      {
+        "width": 160,
+        "top": 3943.875,
+        "left": 381
+      },
+      {
+        "width": 73.859375,
+        "top": 3945.875,
+        "left": 549
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1024,
+    "name": "New information type",
+    "width": 274,
+    "usable": 248,
+    "panel": 274,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 274,
+        "top": 3357.625,
+        "left": 671
+      },
+      {
+        "width": 192,
+        "top": 3401.625,
+        "left": 671
+      },
+      {
+        "width": 73.859375,
+        "top": 3403.625,
+        "left": 871
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1024,
+    "name": "New location",
+    "width": 274,
+    "usable": 248,
+    "panel": 274,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 274,
+        "top": 3684.625,
+        "left": 671
+      },
+      {
+        "width": 128,
+        "top": 3728.625,
+        "left": 671
+      },
+      {
+        "width": 160,
+        "top": 3772.625,
+        "left": 671
+      },
+      {
+        "width": 73.859375,
+        "top": 3774.625,
+        "left": 839
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1280,
+    "name": "New information type",
+    "width": 248.140625,
+    "usable": 222,
+    "panel": 530,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 248.140625,
+        "top": 3300.625,
+        "left": 671
+      },
+      {
+        "width": 192,
+        "top": 3300.625,
+        "left": 927.140625
+      },
+      {
+        "width": 73.859375,
+        "top": 3302.625,
+        "left": 1127.140625
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1280,
+    "name": "New location",
+    "width": 226,
+    "usable": 200,
+    "panel": 530,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 226,
+        "top": 3583.625,
+        "left": 671
+      },
+      {
+        "width": 128,
+        "top": 3583.625,
+        "left": 905
+      },
+      {
+        "width": 160,
+        "top": 3583.625,
+        "left": 1041
+      },
+      {
+        "width": 73.859375,
+        "top": 3627.625,
+        "left": 671
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1440,
+    "name": "New information type",
+    "width": 250.140625,
+    "usable": 224,
+    "panel": 532,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 250.140625,
+        "top": 3300.625,
+        "left": 750
+      },
+      {
+        "width": 192,
+        "top": 3300.625,
+        "left": 1008.140625
+      },
+      {
+        "width": 73.859375,
+        "top": 3302.625,
+        "left": 1208.140625
+      }
+    ],
+    "pass": true
+  },
+  {
+    "viewport": 1440,
+    "name": "New location",
+    "width": 228,
+    "usable": 202,
+    "panel": 532,
+    "value": "",
+    "overflow": false,
+    "controls": [
+      {
+        "width": 228,
+        "top": 3583.625,
+        "left": 750
+      },
+      {
+        "width": 128,
+        "top": 3583.625,
+        "left": 986
+      },
+      {
+        "width": 160,
+        "top": 3583.625,
+        "left": 1122
+      },
+      {
+        "width": 73.859375,
+        "top": 3627.625,
+        "left": 750
+      }
+    ],
+    "pass": true
+  }
+]
