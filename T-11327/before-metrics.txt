@@ -1,0 +1,6 @@
+{"viewport":320,"inputWidth":25,"inputInside":true,"controls":[{"name":"Save","left":330.328125,"right":405.1875},{"name":"Cancel","left":413.1875,"right":480.234375}],"pass":false}
+{"viewport":390,"inputWidth":25,"inputInside":true,"controls":[{"name":"Save","left":330.328125,"right":405.1875},{"name":"Cancel","left":413.1875,"right":480.234375}],"pass":false}
+{"viewport":768,"inputWidth":25,"inputInside":true,"controls":[{"name":"Save","left":658.328125,"right":733.1875},{"name":"Cancel","left":741.1875,"right":808.234375}],"pass":false}
+{"viewport":844,"inputWidth":81.15625,"inputInside":true,"controls":[{"name":"Save","left":651.203125,"right":718.53125},{"name":"Cancel","left":725.71875,"right":786.21875}],"pass":false}
+{"viewport":1440,"inputWidth":303.765625,"inputInside":true,"controls":[{"name":"Save","left":1227.09375,"right":1301.953125},{"name":"Cancel","left":1309.953125,"right":1377}],"pass":true}
+RESULT: EXPECTED_BASE_FAILURE (4/5 failing widths)
