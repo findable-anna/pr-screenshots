@@ -1,0 +1,7 @@
+{"viewport":320,"inputWidth":236,"inputInside":true,"controls":[{"name":"Save","left":37,"right":111.859375},{"name":"Cancel","left":119.859375,"right":186.90625}],"pass":true}
+{"viewport":390,"inputWidth":306,"inputInside":true,"controls":[{"name":"Save","left":37,"right":111.859375},{"name":"Cancel","left":119.859375,"right":186.90625}],"pass":true}
+{"viewport":768,"inputWidth":340,"inputInside":true,"controls":[{"name":"Save","left":365,"right":439.859375},{"name":"Cancel","left":447.859375,"right":514.90625}],"pass":true}
+{"viewport":844,"inputWidth":226.96875,"inputInside":true,"controls":[{"name":"Save","left":328.578125,"right":395.90625},{"name":"Cancel","left":403.09375,"right":463.59375}],"pass":true}
+{"viewport":1440,"inputWidth":303.765625,"inputInside":true,"controls":[{"name":"Save","left":1227.09375,"right":1301.953125},{"name":"Cancel","left":1309.953125,"right":1377}],"pass":true}
+Screenshot: /tmp/t11327-after-phone.png
+RESULT: PASS (0/5 failing widths)
